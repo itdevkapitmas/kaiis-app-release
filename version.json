@@ -1,8 +1,8 @@
 {                                                                             
-    "version": "1.0.0",                                                                                                                                    
-    "build_number": "1",                                                                                                                                   
+    "version": "1.0.1",                                                                                                                                    
+    "build_number": "2",                                                                                                                                   
     "force_update": false,                                                                                                                                 
-    "download_url": "https://github.com/itdevkapitmas/kaiis-app-release/releases/download/v1.0.0/app-release.apk",                                              
+    "download_url": "https://github.com/itdevkapitmas/kaiis-app-release/releases/download/v1.0.1/app-release.apk",                                              
     "release_notes": "- first update",                                                                                                         
     "release_date": "2026-05-23T03:38:52.000Z"                                                                                                             
   }
