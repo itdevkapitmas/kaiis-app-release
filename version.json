@@ -1,0 +1,8 @@
+{                                                                             
+    "version": "1.0.0",                                                                                                                                    
+    "build_number": "1",                                                                                                                                   
+    "force_update": false,                                                                                                                                 
+    "download_url": "https://github.com/itdevkapitmas/app-releases/releases/download/v1.2.1/app-release.apk",                                              
+    "release_notes": "- lowercase username input",                                                                                                         
+    "release_date": "2026-04-13T09:39:14.000Z"                                                                                                             
+  }
